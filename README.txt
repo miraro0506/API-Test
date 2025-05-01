@@ -84,3 +84,6 @@ Respuesta
 {
   "mensaje": "Usuario eliminado correctamente"
 }
+
+4) Diagrama solución
+Se encuentra en la carpeta de Diagrama
