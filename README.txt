@@ -13,6 +13,11 @@ Ejecuta la clase principal NttApplication(clic derecho sobre ella -> Run NttAppl
 2)Base de datos H2
 Ingresar por navegador prederido con la siguiente url
 http://localhost:8080/h2-console
+Acceso:
+Driver Class: org.h2.Driver
+JDBC URL: jdbc:h2:mem:testdb
+User name: sa
+Password: sin contraseña, dejar en blanco
 
 3) API RestFull NTT  gestión de usuarios.
 
