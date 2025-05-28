@@ -55,10 +55,10 @@ public class UserController {
 
         Map<String, String> response = new HashMap<>();
         if (eliminated) {
-            response.put("mensaje", "Usuario eliminado exitosamente");
+            response.put("mensaje", "Usuario Eliminado Exitosamente");
             return ResponseEntity.ok(response);
         } else {
-            response.put("mensaje", "Usuario no encontrado");
+            response.put("mensaje", "Usuario No Encontrado");
             return ResponseEntity.status(HttpStatus.NOT_FOUND).body(response);
         }
     }
