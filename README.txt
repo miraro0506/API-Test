@@ -1,5 +1,3 @@
-Evaluacion NTT DATA
-
 Tecnologías usadas
 Java 17
 Spring 3.4.5
@@ -19,7 +17,7 @@ JDBC URL: jdbc:h2:mem:testdb
 User name: sa
 Password: sin contraseña, dejar en blanco
 
-3) API RestFull NTT  gestión de usuarios.
+3) API RestFull gestión de usuarios.
 
 *POST- Crear Usuario
 URL: POST http://localhost:8080/user
